@@ -63,3 +63,11 @@ A fast, swipe-based debating app that validates whether structured, gamified voi
 
 ## 🧠 Architecture
 
+React Native (Expo)
+├── Screens (Home, Debate, Events, Profile)
+├── Components (SwipeCard, Timer, MicButton)
+├── Firebase Services
+│ ├── Auth (Google Sign-in)
+│ ├── Firestore (Real-time DB)
+│ ├── Storage (Profile/Audio assets)
+└── Context Providers (AuthContext, XPContext)
