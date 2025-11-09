@@ -1,4 +1,4 @@
-# 🎙️ Debato — Real-Time Debating App (MVP)
+# 🎙️ Debate Arena — Real-Time Debating App (MVP)
 
 > **An interactive, voice-based debating platform where users can host, join, and spectate live 2-minute debates — powered by React Native (Expo) and Firebase.**
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-**Debato** is a mobile MVP designed to make online debates **structured, time-bound, and gamified**.  
+**Debate Arena** is a mobile MVP designed to make online debates **structured, time-bound, and gamified**.  
 Users can host or join debates on trending topics, argue live through voice for one minute each, and spectators vote on who made the stronger argument.
 
 The app introduces an engaging **XP reward system**, **levels**, and **streaks**, turning intellectual discussions into a competitive, fun, and rewarding experience.
@@ -16,7 +16,7 @@ The app introduces an engaging **XP reward system**, **levels**, and **streaks**
 ## 🧩 Problem
 
 Most online debates on platforms like Reddit or X (Twitter) devolve into chaos — long, toxic comment chains with no structure or conclusion.  
-**Debato** solves this by providing a platform for short, civil, real-time **voice-based debates** that spectators can easily join, vote on, and enjoy.
+**Debate Arena** solves this by providing a platform for short, civil, real-time **voice-based debates** that spectators can easily join, vote on, and enjoy.
 
 ---
 
